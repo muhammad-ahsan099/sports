@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "sports.app"
-               BlueprintName = "sports"
-               ReferencedContainer = "container:sports.xcodeproj">
+               BuildableName = "SportBlitzNews.app"
+               BlueprintName = "SportBlitzNews"
+               ReferencedContainer = "container:SportBlitzNews.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "sportsTests.xctest"
-               BlueprintName = "sportsTests"
-               ReferencedContainer = "container:sports.xcodeproj">
+               BuildableName = "SportBlitzNewsTests.xctest"
+               BlueprintName = "SportBlitzNewsTests"
+               ReferencedContainer = "container:SportBlitzNews.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "sports.app"
-            BlueprintName = "sports"
-            ReferencedContainer = "container:sports.xcodeproj">
+            BuildableName = "SportBlitzNews.app"
+            BlueprintName = "SportBlitzNews"
+            ReferencedContainer = "container:SportBlitzNews.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "sports.app"
-            BlueprintName = "sports"
-            ReferencedContainer = "container:sports.xcodeproj">
+            BuildableName = "SportBlitzNews.app"
+            BlueprintName = "SportBlitzNews"
+            ReferencedContainer = "container:SportBlitzNews.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
